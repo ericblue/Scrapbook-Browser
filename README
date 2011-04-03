@@ -1,0 +1,8 @@
+# Author: Eric Blue - http://eric-blue.com
+# Project: Scrapbook
+# Description:  Web Interface for the Firefox ScrapBook Extension (http://amb.vis.ne.jp/mozilla/scrapbook/)
+#               Parse ScrapBook RDF and generate JSON for Simile Exhibit and HTML for JQuery File Tree
+
+- Supports browsing and filtering use Exhibit (Tile, Timeline, Table view)
+- Uses memcached to speed up RDF processing and JSON creation
+- Uses JQuery File Tree to support a folder/file view

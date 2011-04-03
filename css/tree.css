@@ -1,0 +1,59 @@
+.mask{
+   position: relative;
+   overflow: hidden;
+   margin: 0px auto;
+   width: 99%;
+   background-color: #F5F5F5
+}
+.header{
+   float: left;
+   width: 100%;
+   background-color: #F5F5F5
+}
+.colleft{
+   position: relative;
+   width: 100%;
+   right: 78%;
+   background-color: #F5F5F5
+}
+.col1{
+   position: relative;
+   overflow: hidden;
+   float: left;
+   width: 77.3%;
+   left: 100.35%;
+   background-color: #F5F5F5
+}
+.col2{
+   position: relative;
+   overflow: hidden;
+   float: left;
+   width: 21.3%;
+   left: 1.0499999999999972%;
+   background-color: #F5F5F5
+}
+.footer{
+   float: left;
+   width: 100%;
+   background-color: #F5F5F5
+}
+body {
+   padding: 0px;
+   margin: 0px;
+   font-size: 90%;
+   background-color: #F5F5F5
+}
+
+
+.folders {
+   width: 300px;
+   height: 610px;
+   border-top: solid 1px #BBB;
+   border-left: solid 1px #BBB;
+   border-bottom: solid 1px #FFF;
+   border-right: solid 1px #FFF;
+   background: #FFF;
+   overflow: scroll;
+   padding: 5px;
+}
+
